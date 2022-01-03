@@ -1,1 +1,1 @@
-<?php echo 'php file ok';
+<?php echo 'php file main ok';
