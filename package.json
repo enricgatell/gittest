@@ -1,0 +1,23 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enricgatell/gittest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://enricgatell.github.io/gittest",
+  "bugs": {
+    "url": "https://github.com/enricgatell/gittest/issues"
+  },
+  "homepage": "https://github.com/enricgatell/gittest#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
